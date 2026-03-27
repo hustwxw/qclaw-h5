@@ -1,0 +1,26 @@
+{
+  "name": "mobile",
+  "version": "1.0.0",
+  "description": "H5移动端项目框架",
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "test": "umi test",
+    "lint": "eslint src --ext .js,.jsx,.ts,.tsx"
+  },
+  "dependencies": {
+    "antd-mobile": "^5.42.3",
+    "antd-mobile-icons": "^0.3.0",
+    "dva-core": "^2.0.4",
+    "dva-loading": "^3.0.25",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-vant": "^3.3.5",
+    "umi": "^4.3.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}
