@@ -1,5 +1,7 @@
 # Mobile H5 框架
 
+> 🤖 本项目由 **QClaw AI** 自动生成
+
 基于 Umi + React + Antd Mobile + Vant + Dva 构建的移动端 H5 开发框架。
 
 ## 技术栈
